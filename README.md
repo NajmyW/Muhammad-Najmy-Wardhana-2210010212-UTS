@@ -1,4 +1,3 @@
-```markdown
 # Aplikasi Resep Makanan
 
 Aplikasi ini adalah sebuah tugas akademik yang dibuat menggunakan **Apache NetBeans** dengan Java GUI berbasis JFrame. Aplikasi ini memungkinkan pengguna untuk mencari resep makanan secara online melalui API, menampilkan data resep, dan mengelola data tersebut.
@@ -78,4 +77,3 @@ Proyek ini menggunakan lisensi MIT. Anda bebas untuk menggunakan, memodifikasi, 
 ---
 
 Happy coding! 🚀
-```
