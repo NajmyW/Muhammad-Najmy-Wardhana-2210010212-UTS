@@ -66,10 +66,6 @@ Aplikasi ini adalah sebuah tugas akademik yang dibuat menggunakan **Apache NetBe
 - **[anabot.my.id](https://anabot.my.id/)**: API untuk mengambil data resep makanan.
 - **[Cookpad](https://cookpad.com/)**: URL referensi untuk resep makanan.
 
-## Kontributor
-
-- **Nama Anda** - Mahasiswa/Tugas Akademik
-
 ## Lisensi
 
 Proyek ini menggunakan lisensi MIT. Anda bebas untuk menggunakan, memodifikasi, dan mendistribusikan proyek ini.
